@@ -1,1 +1,3 @@
-# App_note
+Flutter App_note
+
+Hình ảnh trong mục hinhanh.
